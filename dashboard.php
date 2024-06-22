@@ -13,7 +13,7 @@ include('includes/navbar.php');
                         <h4>User Dashbaord</h4>
                     </div>
                     <div class="card-body">
-                        <h1>Hello Berniggga</h1>
+                        <h1>Hello Steveee!</h1>
                     </div>
                 </div>
             </div>
